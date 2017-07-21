@@ -1,2 +1,2 @@
 Creating a new branch is quick and simple.
-branch Fast forward test.
+branch Fast forward test bug fixed.
